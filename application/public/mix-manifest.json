@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/admin/categorias/app.js": "/js/admin/categorias/app.js",
+    "/js/admin/produtos/app.js": "/js/admin/produtos/app.js",
+    "/js/admin/clientes/app.js": "/js/admin/clientes/app.js",
+    "/js/admin/usuarios/app.js": "/js/admin/usuarios/app.js",
+    "/js/admin/pedidos/app.js": "/js/admin/pedidos/app.js",
+    "/js/admin/papeis/app.js": "/js/admin/papeis/app.js",
+    "/css/app.css": "/css/app.css"
+}

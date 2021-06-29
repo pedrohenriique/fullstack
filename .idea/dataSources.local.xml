@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PS-211.7142.44">
+    <data-source name="desafio@localhost" uuid="f2961ad6-6c04-4f90-931d-03e3b94904de">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <user-name>desafio</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
